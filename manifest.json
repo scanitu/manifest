@@ -1,0 +1,53 @@
+{
+  "name": "scanitu.com",
+  "short_name": "scanitu.com",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "https://www.scanitu.com",
+  "start_url": "https://www.scanitu.com",
+  "icons": [
+    {
+      "src": "https://3.bp.blogspot.com/-Bdw0tjXCrsA/Xf7JHQtsWuI/AAAAAAAAACc/iUK0J7_hoM0kRtAhPLqvLEIDIOElVVUUgCLcBGAsYHQ/s1600/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-aLAdF2CQKbo/Xf7JHZY3lGI/AAAAAAAAACY/t7767kwYQTEEOT_NaSSVowtZmlaZYUT6QCLcBGAsYHQ/s1600/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-Pv1LwBHRBq8/Xf7JEzppv5I/AAAAAAAAACA/7HjUQkWUncEoVrk88jfEm9NOhY4Q7wxwwCLcBGAsYHQ/s1600/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-bNI5gRa-IXc/Xf7JFIAUgII/AAAAAAAAACE/8luSTLG35lYMpkg-X3YinlngAuirWV7mwCLcBGAsYHQ/s1600/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-5YEZtYjO2ys/Xf7JFDIud2I/AAAAAAAAACI/4jGpE5fv78sRKieXd0b2nCNZSxdkPIm1ACLcBGAsYHQ/s1600/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-yGxlVsFg7nk/Xf7JGDBe2CI/AAAAAAAAACM/gcnEANvHey8Q6-truEvmTzA7ulSjOdJMwCLcBGAsYHQ/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-_QQOX2_gqJg/Xf7JGMkHTGI/AAAAAAAAACQ/kE-EeJyWNmUiDylfni9JoFXVNVhHL7UQgCLcBGAsYHQ/s1600/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-zp78T9tKdlI/Xf7JGId4PeI/AAAAAAAAACU/OOqPx7Naz1kDTWihaAnHZNHC4mzx6O_yACLcBGAsYHQ/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
